@@ -3,6 +3,7 @@ Password protected file sharing app implemented using Node, Express, MongoDB and
 
 Dependencies used:
 - Express
+- EJS
 - Multer
 - BCrypt
 - Mongoose
